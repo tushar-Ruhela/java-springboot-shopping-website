@@ -14,15 +14,18 @@ Search for products
 
 Screenshots:
 
-![alt text](screenshots/Home.png)
+![alt text](frontend/screenshots/Home.png)
 
-![alt text](<screenshots/Screenshot from 2026-02-07 23-32-12.png>)
+![alt text](frontend/screenshots/image2.png)
 
-![alt text](<screenshots/Screenshot from 2026-02-07 23-32-33.png>)
+![alt text](frontend/screenshots/Screenshot%20from%202026-02-07%2023-32-33.png)
 
-![alt text](<screenshots/Screenshot from 2026-02-07 23-32-53.png>)
+![alt text](frontend/screenshots/Screenshot%20from%202026-02-07%2023-32-53.png)
 
-![alt text](<screenshots/Screenshot from 2026-02-07 23-33-58.png>)
+![alt text](frontend/screenshots/Screenshot%20from%202026-02-07%2023-33-24.png)
+
+![alt text](frontend/screenshots/Screenshot%20from%202026-02-07%2023-33-58.png)
+
 View product details
 
 Place orders
