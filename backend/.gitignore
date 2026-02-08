@@ -12,6 +12,7 @@ target/
 
 ### VS Code
 .vscode/
+.env
 
 ### IntelliJ IDEA
 .idea/

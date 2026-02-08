@@ -28,7 +28,7 @@ public class DataInitializer implements CommandLineRunner {
     }
 
     private void initializeData() {
-        // Create Categories
+       
         Category electronics = new Category();
         electronics.setName("Electronics");
         electronics.setDescription("Electronic devices and gadgets");
