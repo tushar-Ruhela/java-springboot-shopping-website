@@ -1,0 +1,42 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS/Eclipse
+.classpath
+.project
+.settings/
+.springBeans
+
+### VS Code
+.vscode/
+
+### IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### macOS
+.DS_Store
+
+### Windows
+Thumbs.db
+
+### Log files
+*.log
+logs/
+
+### Specific configuration files (adjust as needed)
+# application-local.properties
+# application-dev.yml
